@@ -1,5 +1,5 @@
 
-## link to app:https://hritikap.github.io/
+## link to app: https://hritikap.github.io/blogapp/
 
 
 
