@@ -1,0 +1,51 @@
+.aboutForm{
+    padding-top: 80px;
+    
+    
+    
+}
+.aboutcontact{
+font-weight: 700;
+color: rgb(16, 177, 123);
+padding-bottom: 20px;
+font-size: 40px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    
+}
+.aboutSubmit{
+    background-color: teal;
+    position: absolute;
+    top:180px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 12px;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    
+}
+.writeFormGroup{
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+.aboutText{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    
+
+    
+}
+.aboutMessage{
+
+font-size: 20px;
+    
+
+    
+}

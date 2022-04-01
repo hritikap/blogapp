@@ -1,0 +1,20 @@
+.aboutUs{
+    padding-top: 30px;
+    display: flex;
+    
+}
+.aboutImg{
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+}
+.aboutPara{
+    color:green;
+    font-size: large;
+    line-height: 30px;
+    padding:20px;
+}
+.aboutimgpara{
+float: left;
+display: flex;
+}

@@ -1,0 +1,28 @@
+.top{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:rgb(46, 29, 29);
+    width: 100%;
+    height: 50px;
+    z-index: 999;   
+    position: sticky;  
+}
+
+.topList{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding:10px;
+    list-style: none;
+}
+.topListItem{
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    color:white;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
